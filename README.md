@@ -1,2 +1,1 @@
-# docker-php-ssh
-IF Docker CentOS 7 PHP SSH
+# IF Docker CentOS 7 PHP SSH
